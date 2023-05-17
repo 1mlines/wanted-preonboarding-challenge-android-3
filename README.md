@@ -8,9 +8,9 @@
 ## 과제 제출 방법
 - 저장소의 Issues 탭 클릭하고, New issue 버튼을 클릭합니다.
 - 'Get started' 버튼을 클릭합니다.
-<img width="1073" alt="이슈템플릿" src="https://github.com/1mlines/wanted-preonboarding-challenge-android-3/assets/20774764/02904720-0184-4547-add4-31958d162797">
+<img width="1073" alt="이슈템플릿" src="https://github.com/1mlines/wanted-preonboarding-challenge-android-3/assets/20774764/390f3187-ab34-4942-8340-8f395a623ad0">
 
 - 템플릿으로 등록해 놓은 사전 과제의 답변을 작성합니다.
   - 제목 : `제출일`과 `이름` 수정 </br>
-  <img width="785" alt="안드로이드_사전과제_제출" src="https://github.com/1mlines/wanted-preonboarding-challenge-android-3/assets/20774764/f1e1c245-c9ac-453d-ab25-9fc5169d4909">
+  <img width="999" alt="안드로이드_사전과제_제출" src="https://github.com/1mlines/wanted-preonboarding-challenge-android-3/assets/20774764/82782acf-fb2e-464a-93a7-b3b13291339f">
 - 'Submit new issue' 버튼을 클릭해 사전 과제를 제출합니다.
